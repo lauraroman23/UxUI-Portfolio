@@ -1,1 +1,1 @@
-Portfolio de um projeto UX/UI de uma plataforma de recomendação de filmes.
+Portfolio com projeto de UX/UI.
